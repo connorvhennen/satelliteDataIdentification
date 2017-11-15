@@ -1,3 +1,9 @@
+"""
+Created on Feb 1 14:21:48 2017
+
+@author: connorvhennen
+"""
+
 import numpy as np
 import pandas as pd 
 from shapely.wkt import loads as wkt_loads
